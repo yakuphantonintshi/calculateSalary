@@ -1,0 +1,12 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color: rgb(245, 38, 210);
+    margin-top: 20px;
+
+}
+.size{
+    text-decoration: underline;
+}
